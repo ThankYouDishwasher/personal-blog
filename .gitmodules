@@ -1,0 +1,4 @@
+[submodule "ThankYouDishwasher/public"]
+	path = ThankYouDishwasher/public
+	url = git@github.com:ThankYouDishwasher/ThankYouDishwasher.github.io.git
+	branch = main
