@@ -1,18 +1,3 @@
-[[main]]
-  name = "Home"
-  url = ""
-  weight = -100
-
-[[main]]
-  name = "Technology"
-  url = "technology/"
-  weight = -99
-
-[[main]]
-  name = "Tips"
-  url = "tips/"
-  weight = -98
-
 # social menu links
 
 [[social]]
