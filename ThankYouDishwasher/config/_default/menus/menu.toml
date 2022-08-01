@@ -1,0 +1,21 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -100
+
+[[main]]
+  name = "Technology"
+  url = "technology/"
+  weight = -99
+
+[[main]]
+  name = "Tips"
+  url = "tips/"
+  weight = -98
+
+# social menu links
+
+[[social]]
+  name = "linkedin"
+  weight = 1
+  url = "https://www.linkedin.com/in/%F0%9F%95%B7%EF%B8%8F-tianming-chen-057131120/"
