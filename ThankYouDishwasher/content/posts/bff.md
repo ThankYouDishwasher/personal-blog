@@ -1,5 +1,5 @@
 ---
-title: "Why you need BFF (Back-End For Front-End)"
+title: "BFF (Back-End For Front-End)"
 date: 2022-08-01T23:44:56+10:00
 tags: ["System Design"]
 categories: ["Technology"]

@@ -2,7 +2,7 @@
 title: "Pages Markdown Cheatsheet"
 date: 2022-07-31T16:44:38+10:00
 tags: ["markdown"]
-categories: ["Tips"]
+categories: ["Cheat Sheet"]
 ---
 
 # Markdown Cheatsheet<a name="TOP"></a>
