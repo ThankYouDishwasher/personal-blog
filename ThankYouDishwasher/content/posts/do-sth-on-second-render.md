@@ -1,7 +1,7 @@
 ---
 title: "Do somthing on the second render? NO!"
 date: 2022-08-02T22:35:40+10:00
-tags: ["TIL"]
+tags: ["Mistakes"]
 categories: ["TIL"]
 ---
 

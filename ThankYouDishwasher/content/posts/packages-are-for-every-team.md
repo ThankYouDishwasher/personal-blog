@@ -1,7 +1,7 @@
 ---
 title: "Packages are for everyone"
 date: 2022-08-02T22:44:40+10:00
-tags: ["TIL"]
+tags: ["Mistakes"]
 categories: ["TIL"]
 ---
 

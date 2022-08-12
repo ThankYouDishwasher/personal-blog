@@ -2,11 +2,6 @@
 title: "Pages Markdown Cheatsheet"
 date: 2022-07-31T16:44:38+10:00
 tags: ["markdown"]
-categories: ["Cheat Sheet"]
----
-
-# Markdown Cheatsheet<a name="TOP"></a>
-
 ---
 
 # Heading 1
@@ -90,9 +85,7 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
-![image info](./pictures/image.png)
+![image info](./pictures/image.png "Title is optional")
 
 ```html
 <h3>HTML</h3>
